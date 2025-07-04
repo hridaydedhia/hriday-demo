@@ -1,3 +1,4 @@
 # hriday-demo
-This is my git repositiory 
+This is my first git repositiory.
+<br>
 author- Hriday Dedhia
